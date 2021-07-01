@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+}
+
+.btn
+{
+    border-radius: 40px;
+    font-size: 20px;
+    background-color: rgb(213, 213, 252);
+    margin-bottom: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+}
